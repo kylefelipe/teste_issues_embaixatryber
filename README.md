@@ -1,3 +1,3 @@
 # teste_issues_embaixatryber
 
-#VQV:  VAmo que vamo.
+#VQV:  Vamo que vamo.
