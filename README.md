@@ -24,4 +24,4 @@ E deu tilt no item da sublista.
 [Referencia com case sensitive]: https://app.betrybe.com/course  
 [1]: https://app.betrybe.com/course
 
-[Texto em h1](./README.md$Texto_em_h1) 
+[Texto em h1](./README.md$Texto-em-h1) 
